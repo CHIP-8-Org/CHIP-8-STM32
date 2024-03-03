@@ -1,4 +1,4 @@
-# Chip-8 STM32
+# STM32-Port
 
 This repository contains the port of our [Chip-8 emulator](https://github.com/CHIP-8-Org/Core) for the STM32 microcontroller platform. The Chip-8 emulator allows you to run vintage video games originally designed for the CHIP-8, CHIP-48, S-CHIP 1.0 and S-CHIP 1.1 on STM32-based hardware.
 
